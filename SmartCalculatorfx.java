@@ -133,4 +133,4 @@ public class extends  SmartCalculatorfx Application {
     public static void main(String[] args) {
         launch(args);
     }
-} code for vs code
+} 
